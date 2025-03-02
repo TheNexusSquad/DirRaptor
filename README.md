@@ -19,4 +19,7 @@ cd DirRaptor
 pip install -r requirements.txt
 ```
 
-
+3. Run DirRaptor
+```
+python3 dirraptor.py
+```
