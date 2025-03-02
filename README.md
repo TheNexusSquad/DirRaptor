@@ -23,3 +23,5 @@ pip install -r requirements.txt
 ```
 python3 dirraptor.py
 ```
+
+made by - kai@tns
